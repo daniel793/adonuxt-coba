@@ -33,6 +33,7 @@
     "@adonisjs/shield": "^1.0.3",
     "@adonisjs/vow": "^1.0.12",
     "cross-env": "^5.1.0",
+    "mysql": "^2.18.1",
     "nuxt": "^1.0.0-rc11"
   },
   "devDependencies": {
